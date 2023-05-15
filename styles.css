@@ -11,4 +11,5 @@ body {
 nav {
   background-color: beige;
   display: flex
+  Justify; flex-direction: row;
 }
