@@ -5,7 +5,6 @@
   color: #b7b7b7;
 }
 body {
-    background-color: rgb(0, 0, 0);
   background: black;
 }
   h1 {
@@ -26,8 +25,8 @@ body {
   } 
 ul {
   padding-top: 50px;
-  padding-left: 1fr;
-  padding-right: 1fr;
+  padding-left: 25px;
+  padding-right: 25px;
   background-image: url(/images/header.jpg);
   list-style-type: none;
   display: block;
