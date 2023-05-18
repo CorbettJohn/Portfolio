@@ -7,4 +7,4 @@ Github Profile Link
 <a href="https://github.com/CorbettJohn">GitHub!</a>
 
 Linkedn Profile Link
-<a href="Urlhere">Linkedn!</a>
+<a href="https://www.linkedin.com/in/johnathan-corbett-1030a7277/">Linkedn!</a>
